@@ -1,0 +1,9 @@
+Jsp是项目 
+	环境是 java 1.8.0_412
+	Tomcat使用的是Xampp内置的Tomcat 8.5.87
+
+数据库为users请自己新建
+然后导入users.sql即可完成数据层面建表
+
+jsp_orders 为订单信息表
+jsp_user 为用户信息表
